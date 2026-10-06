@@ -52,22 +52,6 @@
             "quickSearch": 1,
             "changeable": 0
         }, {
-            "key": "AiQwMkv",
-            "name": "💓‍七味┃4K💓‍",
-            "type": 3,
-            "api": "csp_AiQwMkvGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        }, {
-            "key": "AiNewPianKu",
-            "name": "💓盘库┃4K💓",
-            "type": 3,
-            "api": "csp_AiNewPianKuGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        }, {
             "key": "AiNewHuBan",
             "name": "💓虎斑┃4K💓",
             "type": 3,
