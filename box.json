@@ -3,17 +3,7 @@
     "wallpaper": "https://www.loliapi.com/acg/",
     "logo": "https://raw.githubusercontent.com/RyuKyou/personal-iptv-config/main/LOGO.jpg",
     "sites": [
-        {
-            "key": "Douban",
-            "name": "🐮【免费分享】🐮",
-            "type": 3,
-            "api": "csp_NewDouBanGuard",
-            "indexs": 1,
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
-        }, {
+{
             "key": "Doubanaaaa",
             "name": "🐮【更新日期:20260923】🐮",
             "type": 3,
