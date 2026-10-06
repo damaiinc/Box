@@ -36,22 +36,6 @@
                 "type": "list"
             }
         },{
-            "key": "花卷",
-            "name": "💓无花卷┃4K💓‍",
-            "type": 3,
-            "api": "csp_AiNewHuaJuanGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        }, {
-            "key": "玩偶",
-            "name": "💓‍玩偶┃4K💓‍",
-            "type": 3,
-            "api": "csp_AiNewWoggGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        }, {
             "key": "AiNewHuBan",
             "name": "💓虎斑┃4K💓",
             "type": 3,
@@ -76,6 +60,22 @@
             "quickSearch": 1,
             "changeable": 0
         }, {
+            "key": "花卷",
+            "name": "💓花卷┃4K💓‍",
+            "type": 3,
+            "api": "csp_AiNewHuaJuanGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        }, {
+             "key": "玩偶",
+            "name": "💓‍玩偶┃4K💓‍",
+            "type": 3,
+            "api": "csp_AiNewWoggGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        }, {
             "key": "AiNewJuTou",
             "name": "💓剧透┃4K💓",
             "type": 3,
@@ -93,7 +93,7 @@
             "changeable": 0
         }, {
             "key": "原盘",
-            "name": "💓‍原盘┃4K💓‍",
+            "name": "💓夸克┃4K💓‍",
             "type": 3,
             "api": "csp_AiNewZhiNan4KGuard",
             "searchable": 1,
