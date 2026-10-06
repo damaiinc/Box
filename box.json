@@ -3,8 +3,8 @@
     "wallpaper": "https://www.loliapi.com/acg/",
     "logo": "https://raw.githubusercontent.com/RyuKyou/personal-iptv-config/main/LOGO.jpg",
     "sites": [
-{
-            "key": "Doubanaaaa",
+        }
+            "key": "Douban",
             "name": "🐮【更新:20261006】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
